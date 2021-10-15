@@ -1,2 +1,2 @@
-<h1 align="center">FlexBlog</h1>
-<p align="center">CSS Flex Box Blog</p>
+<h1>FlexBlog</h1>
+<p>CSS Flex Box Blog</p>
